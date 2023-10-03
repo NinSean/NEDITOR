@@ -1,2 +1,3 @@
 # NINEDITOR
-edits the memory of applications (trying to make this as strong as possible)
+edits the memory of applications 
+i did this and i have no plans on uploading it :)
