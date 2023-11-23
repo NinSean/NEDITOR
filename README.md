@@ -1,2 +1,2 @@
 # NEDITOR
-edits the memory of applications
+zzzzzzzzzzzz not posting dm me for code
